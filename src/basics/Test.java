@@ -11,6 +11,7 @@ public class Test {
 		
 		System.out.println("Welcome to my program");
 		System.out.println("=======================");
+		System.out.println("------------------------");
 		System.out.println("What is yor name");
 		String name=ui2.nextLine();
 		System.out.println("How old are you?");
@@ -31,6 +32,7 @@ public class Test {
 		double raise=ui.nextDouble();
 		double totalSalary=salary+raise;
 		System.out.println("-------------------------");
+		System.out.println("==========================");
 		System.out.println("My name is "+ name +". I am "+age+" years old, "+gender+". I work at "+job+ " as "+role+".");
 		System.out.println("I currently live in "+city+".I am originally from "+country+".");
 		System.out.print("I make ");
