@@ -9,7 +9,7 @@ public class Test {
 		Scanner ui=new Scanner(System.in);//Primitive data type
 		Scanner ui2=new Scanner(System.in);//Non-Primitive data type
 		
-		System.out.println("Welcome to my program");
+		System.out.println("Welcome to my program in eclipse IDE");
 		System.out.println("=======================");
 		System.out.println("------------------------");
 		System.out.println("What is yor name");
